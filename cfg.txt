@@ -1,0 +1,10 @@
+{
+    "excelname": "C:\\Users\\xiaoc\\Desktop\\12\\订单查询.xlsx",
+    "tablename": "{}月{}日",
+    "orderList": "A1",
+    "timeList": "B1",
+    "timeTitleName": "物流更新时间",
+    "stateList": "C1",
+    "stateTitleName": "当前物流状态",
+    "当前物流状态" : "D1"
+}
